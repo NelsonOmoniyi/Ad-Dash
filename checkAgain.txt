@@ -1,0 +1,1 @@
+SELECT customer_email FROM customers_table WHERE customer_email = 'nAN@m.co' LIMIT 1

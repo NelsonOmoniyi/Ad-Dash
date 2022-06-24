@@ -1,0 +1,1 @@
+UPDATE role SET role_name='nelson omoniyi',role_enabled='0' WHERE  role_id='0011' 

@@ -1,0 +1,1 @@
+insert into role (role_id,role_name,role_enabled,created) VALUES ('0011','Admin','1','2022-06-16 12:11:28')

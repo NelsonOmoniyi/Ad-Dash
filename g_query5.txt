@@ -1,0 +1,1 @@
+SELECT product_id,product_name,product_description,customers_id,quantity,delivery_initiated,delivery_date,delivery_address,reciever_email,status,category,rider,product_id,OTP FROM products WHERE  1 = 1  order by product_id asc  LIMIT 0, 10
